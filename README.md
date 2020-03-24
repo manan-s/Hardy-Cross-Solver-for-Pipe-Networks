@@ -1,1 +1,1 @@
-# Hardy-Cross-Solver-for-Pipe-Networks
+# Hardy Cross Solver for Pipe Networks
